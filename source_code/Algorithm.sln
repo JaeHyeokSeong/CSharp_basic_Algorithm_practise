@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumAlgorithm", "SumAlgorith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountAlgorithm", "CountAlgorithm\CountAlgorithm.csproj", "{44739C16-9E33-4658-B368-BED58297EBDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageAlgorithm", "AverageAlgorithm\AverageAlgorithm.csproj", "{387BFDA2-AE5D-4486-9834-8ECE99ABD29D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{44739C16-9E33-4658-B368-BED58297EBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44739C16-9E33-4658-B368-BED58297EBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44739C16-9E33-4658-B368-BED58297EBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{387BFDA2-AE5D-4486-9834-8ECE99ABD29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387BFDA2-AE5D-4486-9834-8ECE99ABD29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387BFDA2-AE5D-4486-9834-8ECE99ABD29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387BFDA2-AE5D-4486-9834-8ECE99ABD29D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
