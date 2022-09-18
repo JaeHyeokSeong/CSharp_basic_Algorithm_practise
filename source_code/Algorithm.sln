@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxAlgorithm", "MaxAlgorith
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinAlgorithm", "MinAlgorithm\MinAlgorithm.csproj", "{64C0AF26-4ABF-445F-934E-A3458B68BB42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application1_RatingAverage", "Application1_RatingAverage\Application1_RatingAverage.csproj", "{9DC2BC77-813E-4448-8673-5E976C00D60C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{64C0AF26-4ABF-445F-934E-A3458B68BB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64C0AF26-4ABF-445F-934E-A3458B68BB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64C0AF26-4ABF-445F-934E-A3458B68BB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC2BC77-813E-4448-8673-5E976C00D60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC2BC77-813E-4448-8673-5E976C00D60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC2BC77-813E-4448-8673-5E976C00D60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC2BC77-813E-4448-8673-5E976C00D60C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
