@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application1_RatingAverage"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearAlgorithm", "NearAlgorithm\NearAlgorithm.csproj", "{480C7490-3C1D-485E-AC5E-77ADEE3793F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankAlgorithm", "RankAlgorithm\RankAlgorithm.csproj", "{D6BA871A-186E-4899-A148-1B0B076A0CC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{480C7490-3C1D-485E-AC5E-77ADEE3793F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{480C7490-3C1D-485E-AC5E-77ADEE3793F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{480C7490-3C1D-485E-AC5E-77ADEE3793F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6BA871A-186E-4899-A148-1B0B076A0CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BA871A-186E-4899-A148-1B0B076A0CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BA871A-186E-4899-A148-1B0B076A0CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BA871A-186E-4899-A148-1B0B076A0CC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
