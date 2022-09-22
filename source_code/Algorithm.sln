@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeAlgorithm", "MergeAlgo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeAlgorithm", "ModeAlgorithm\ModeAlgorithm.csproj", "{8C68A720-0182-4AD2-96EE-4504E9F1351D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort1", "MergeSort-1\MergeSort1.csproj", "{3C8997B7-1EE1-4BEF-A757-721969005AC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{8C68A720-0182-4AD2-96EE-4504E9F1351D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C68A720-0182-4AD2-96EE-4504E9F1351D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C68A720-0182-4AD2-96EE-4504E9F1351D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C8997B7-1EE1-4BEF-A757-721969005AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8997B7-1EE1-4BEF-A757-721969005AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8997B7-1EE1-4BEF-A757-721969005AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8997B7-1EE1-4BEF-A757-721969005AC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
