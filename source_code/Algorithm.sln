@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeAlgorithm", "ModeAlgori
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort1", "MergeSort-1\MergeSort1.csproj", "{3C8997B7-1EE1-4BEF-A757-721969005AC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAlgorithm", "GroupAlgorithm\GroupAlgorithm.csproj", "{595A5F6D-E436-4735-BA2F-19EF4C4B83EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3C8997B7-1EE1-4BEF-A757-721969005AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C8997B7-1EE1-4BEF-A757-721969005AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C8997B7-1EE1-4BEF-A757-721969005AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595A5F6D-E436-4735-BA2F-19EF4C4B83EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595A5F6D-E436-4735-BA2F-19EF4C4B83EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595A5F6D-E436-4735-BA2F-19EF4C4B83EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595A5F6D-E436-4735-BA2F-19EF4C4B83EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
